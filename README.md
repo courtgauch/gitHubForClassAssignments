@@ -1,4 +1,4 @@
-# Using git and GitHub for Class Assignments
+# Using GitHub for Class Assignments
 
 A video demonstration of the steps in this assignment is available at: https://youtu.be/4WVnIdRdWFw
 
