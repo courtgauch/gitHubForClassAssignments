@@ -1,0 +1,5 @@
+GitHubForAssigntments
+
+The method I will be primarily using to put will be to create the document in the text file under the gHubForClassAssignments folder. That is linked to VSCode. Then I will be able to go to push/pull and sync the file with my GitHub Account and then be able to submit files through GitHub. 
+
+I hope I'm understanding this all correctly!
